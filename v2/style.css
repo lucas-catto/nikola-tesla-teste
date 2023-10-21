@@ -77,9 +77,9 @@ img {
     height:                100%;
     background-color:      rgba(0,0,0, .7);
 
-    justify-content:      center;
-    align-items:          center;
-    z-index:              1;
+    justify-content:       center;
+    align-items:           center;
+    z-index:               1;
 }
 
 .modal-content {
@@ -110,7 +110,7 @@ img:hover {
     transition:            .2s;
 }
 
-.modal-content img { max-width:  32vh;   }
+.modal-content img { max-width:  40vh;   } /**/
 p                  { margin:     10px 0; }
 
 .modal-content img:hover {
